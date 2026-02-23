@@ -1,5 +1,5 @@
 #  about me:
-hi im akhilesh, a final year ug student at iit madras and bits pilani<br>i eat-code-love-sleep-repeat<br>🦉 (yeah im an ml enthusiast too)
+hi im akhilesh, a final year ug student at iit madras and bits pilani<br>i eat-code-love-sleep-repeat<br> (yeah im an ml enthusiast too)
 
 
 #  tech stack:
@@ -10,4 +10,4 @@ hi im akhilesh, a final year ug student at iit madras and bits pilani<br>i eat-c
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilesh09) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/spy5errr) 
 
 
-### that ovo and that xo is everything you believe in
+### that ovo and that xo is everything you believe in 🦉
