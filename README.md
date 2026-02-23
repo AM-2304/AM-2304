@@ -1,5 +1,5 @@
 #  about me:
-hi im akhilesh, a final year ug student at iit madras and bits pilani<br>i eat-code-love-sleep-repeat<br>🦉
+hi im akhilesh, a final year ug student at iit madras and bits pilani<br>i eat-code-love-sleep-repeat<br>🦉 (yeah im an ml enthusiast too)
 
 
 #  tech stack:
