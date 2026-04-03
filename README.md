@@ -18,7 +18,7 @@ hi im akhilesh, a final year ug student at iit madras and bits pilani<br>i eat-c
 
 [![Profile Views](https://komarev.com/ghpvc/?username=am-2304&color=c59ac4&style=flat-square&label=Profile+Views)](https://github.com/am-2304)
 
-*that ovo and that xo is everything you believe in 🦉*
+*that ovo and that xo is everything you believe in* 🦉
 
 </div>
 
