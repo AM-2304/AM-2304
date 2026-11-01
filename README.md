@@ -1,5 +1,5 @@
 #  about me:
-hi im akhilesh<br> i eat-code-love-sleep-repeat<br> (yeah im an ml enthusiast too)
+hi im akhilesh<br> eat-code-sleep-repeat<br> (yeah im an ml enthusiast)
 
 
 #  tech stack:
