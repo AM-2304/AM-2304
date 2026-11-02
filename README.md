@@ -1,7 +1,7 @@
 #  about me:
 <div >
 hi im akhilesh<br> i eat-code-sleep-repeat<br> i mostly work on nlp, safety and reliability of llms, and swarm intelligence systems (yeah im an ml enthusiast 🥀) 
-  <img src="spy5er.png" width="150" align="right">
+  <img src="spy5er.png" width="250" align="right">
 </div>
 
 
