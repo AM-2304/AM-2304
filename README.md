@@ -7,20 +7,15 @@ hi im akhilesh<br> i eat-code-sleep-repeat<br> i mostly work on nlp, safety and 
 
 <a href="https://www.thegitcity.com/dev/am-2304">
 <img src="https://www.thegitcity.com/dev/am-2304/opengraph-image" width="600" alt="Newly shifted to the Git City"/>
+<div align="right">
+  <img src="spy5er.png" width="150">
+</div>
 </a>
 
 #  connect w/ me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilesh09) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/spy5errr) 
 
 
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=am-2304&color=c59ac4&style=flat-square&label=Profile+Views)](https://github.com/am-2304)
-
 *that ovo and that xo is everything you believe in* 🦉
-  <div align="right">
-    <img src="spy5er.png" width="150">
-  </div>
 </div>
 
