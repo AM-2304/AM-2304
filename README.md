@@ -13,7 +13,8 @@ hi im akhilesh<br> i eat-code-sleep-repeat<br> i mostly work on nlp, safety and 
 </a>
 
 #  connect w/ me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilesh09) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/spy5errr) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilesh09) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/spy5errr) [![Mail](https://shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:akhilesh.magotra2004@gmail.com)
+
 
 
 *that ovo and that xo is everything you believe in* 🦉
