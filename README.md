@@ -1,5 +1,8 @@
 #  about me:
-hi im akhilesh<br> i eat-code-sleep-repeat<br> i mostly work on nlp, safety and reliability of llms, and swarm intelligence systems (yeah im an ml enthusiast 🥀)
+hi im akhilesh<br> i eat-code-sleep-repeat<br> i mostly work on nlp, safety and reliability of llms, and swarm intelligence systems (yeah im an ml enthusiast 🥀) 
+<div align="right">
+  <img src="spy5er.png" width="150">
+</div>
 
 
 #  tech stack:
@@ -7,9 +10,6 @@ hi im akhilesh<br> i eat-code-sleep-repeat<br> i mostly work on nlp, safety and 
 
 <a href="https://www.thegitcity.com/dev/am-2304">
 <img src="https://www.thegitcity.com/dev/am-2304/opengraph-image" width="600" alt="Git City"/>
-  <div align="right">
-    <img src="spy5er.png" width="150">
-  </div>
 </a>
 
 #  connect w/ me:
